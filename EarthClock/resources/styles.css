@@ -1,0 +1,47 @@
+.background {
+  viewport-fill: #96ccff;
+}
+
+.text-big {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  fill: #ffffff;
+}
+
+.text-sm {
+  font-size: 35;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  fill: #ffffff;
+}
+
+.text {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  fill: #f7f7f7;
+}
+
+#wow {
+  font-size: 40;
+  y: 20;
+}
+
+#time {
+  font-size: 60;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+20;
+  fill: #09367c;
+}
+
+#date {
+  font-size: 36;
+  y: 50%+120;
+}

@@ -1,0 +1,9 @@
+<svg class="background">
+  <!-- x=(DEVICE_WIDTH/2)-(SUN_WIDTH/2) y =(DEVICE_HEIGHT/2)-(SUN_HEIGHT/2)-->
+  <image id="sky-background" href="sky.png"/>
+  <image id="sun-image" href="sunimage.png" />
+  <image id="earth-image" href="earth.png" />
+  <image id="moon-image" href="moon2.png" />
+  <text id="hour" class="text-big"/>
+  <text id="minute" class="text-sm"/>
+</svg>
